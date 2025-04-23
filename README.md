@@ -9,7 +9,7 @@
 4. SURVE MOKSH HARSHAL 
 
 ### Project Guides
-    No guides assigned.
+    PROF. DHANASHREE KANGANE
 
 ### Build Steps
 Please follow the below steps to run this project.
@@ -25,11 +25,3 @@ Please follow the below steps to run this project.
 1. [Python 3](https://www.python.org/)
 2. [Numpy](https://numpy.org)
 3. [OpenCV](https://opencv.com)
-
-### Dataset Used
-1. [Kaggle Dataset 1](https://kaggle.com/dataset1)
-2. [Kaggle Dataset 2](https://kaggle.com/dataset2)
-
-### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
